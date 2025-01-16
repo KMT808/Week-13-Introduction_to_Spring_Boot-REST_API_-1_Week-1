@@ -6,4 +6,12 @@
 	"petStoreZip": "89523",
 	"petStorePhone": "775-203-2496"
 }
-	
+
+{
+	"petStoreName": "Denver's Best Pet Store",
+	"petStoreAddress": "10 Mountain View Road",
+	"petStoreCity": "Denver",
+	"petStoreState": "Colorado",
+	"petStoreZip": "80203",
+	"petStorePhone": "303-555-2496"
+}
